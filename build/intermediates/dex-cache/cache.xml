@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\Time_select_demo\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.5.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53e7ff3d7532fce1d8a8dfc2ccd9b615ca9abe29">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\classes-8db5f07ba5f45a5bf1ba591b0689babe97bcd3c8.jar" />
+    </item>
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-597a9e494310f83d88a95b3d1aba3347a12736a6.jar" />
+    </item>
+    <item
+        jar="E:\android\Time_select_demo\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\classes-dae7beb30c19e24e08cb489729995d0efe8a88dc.jar" />
+    </item>
+    <item
+        jar="E:\android\Time_select_demo\app\libs\RecyclerView.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\RecyclerView-7c44d5a8b512e8a4c6e9e1a52d683282b5d3ded1.jar" />
+    </item>
+    <item
+        jar="E:\android\Time_select_demo\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\gson-2.5-ceb50e24521b5f93521e1634c79b9d4e4f4ca9a0.jar" />
+    </item>
+    <item
+        jar="E:\android\Time_select_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\classes-7ffd5a74476b40f54f78ec07c6ce13827a67fdeb.jar" />
+    </item>
+    <item
+        jar="E:\android\Time_select_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-00878675ffd368fc0e78f4b815672ebbb743d2c9.jar" />
+    </item>
+    <item
+        jar="E:\android\Time_select_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\android\Time_select_demo\app\build\intermediates\pre-dexed\debug\classes-c22bb650291045559528bcd3c4bc15c96d70a6eb.jar" />
+    </item>
+
+</items>
